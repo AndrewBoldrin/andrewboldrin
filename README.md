@@ -1,4 +1,4 @@
-## Olá meu nome é Andrew 👋
+## Olá 👋 meu nome é Andrew 👋
 
 🌟 Desenvolvedor Web | Apaixonado em transformar ideias em soluções 🌟
 
